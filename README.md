@@ -71,7 +71,7 @@ Framework | URL
 
 ## Author
 
-* **Diana Pulatova** - *PWA* - [Diana Pulatova Employee Directory Repo](https://github.com/dianapulatova/Employee-Directory)
+* **Diana Pulatova** - *React* - [Diana Pulatova Employee Directory Repo](https://github.com/dianapulatova/Employee-Directory)
 
  ## Questions
    

@@ -47,6 +47,7 @@ cd Employee-Directory
 **Step 3 - Install all required NPM packages.**
 ```
 npm install
+npm install --save axios
 ```
 **Step 4 - Start the application server using the command line below**
 ```

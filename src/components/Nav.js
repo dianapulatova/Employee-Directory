@@ -4,7 +4,7 @@ import "../styles/Nav.css";
 
 function Nav({ handleSearchChange }) {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav id="nav-color" className="navbar navbar-expand-lg navbar-light bg-warning">
       <button
         className="navbar-toggler"
         type="button"

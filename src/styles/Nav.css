@@ -1,6 +1,8 @@
 .navbar {
   padding: 20px 25px;
   margin: 0 auto;
+
+
 }
 
 .navbar-collapse {
@@ -15,3 +17,4 @@
   justify-content: center;
   align-items: flex-start;
 }
+

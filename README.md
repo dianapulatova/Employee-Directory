@@ -10,11 +10,11 @@
 **Project Description** - Employee Directory App allows users to have an access to their information. And also an employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 
- ![Demo](././demo-gif)
+ ![Demo](public/assets/Employee-Directory.gif)
 
 ## Table of Contents
 
-  * [Application React Link](#Application-React-Link)
+  * [Application Heroku Link](#Application-Herokut-Link)
 
   * [Local Environment Setup](#Local-Environment-Setup)
 
@@ -27,11 +27,11 @@
   * [Questions](#Questions)
    
 
-## Application React Link
-The link below will give you direct access to Employee Directory App which is build with React.js.
+## Application Heroku Link
+The link below will give you direct access to Employee Directory App which is build with Heroku.
 
 <!-- react app link -->
-* [Employee-Directory](http://localhost:3000/)
+* [Employee-Directory](https://my-employees-dir.herokuapp.com/)
 
 ## Local Environment Setup
 To use Progressive Budget web application application from your local environment, you must accomplish the following steps below:

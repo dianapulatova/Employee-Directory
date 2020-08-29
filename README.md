@@ -14,7 +14,7 @@
 
 ## Table of Contents
 
-  * [Application Heroku Link](#Application-Heroku-Link)
+  * [Application React Link](#Application-React-Link)
 
   * [Local Environment Setup](#Local-Environment-Setup)
 
@@ -27,11 +27,11 @@
   * [Questions](#Questions)
    
 
-## Application Heroku Link
+## Application React Link
 The link below will give you direct access to Employee Directory App which is build with React.js.
 
 <!-- react app link -->
-* [Employee-Directory](react-app-link)
+* [Employee-Directory](http://localhost:3000/)
 
 ## Local Environment Setup
 To use Progressive Budget web application application from your local environment, you must accomplish the following steps below:

@@ -31,7 +31,7 @@
 The link below will give you direct access to Employee Directory App which is build with Heroku.
 
 <!-- react app link -->
-* [Employee-Directory](https://my-employees-dir.herokuapp.com/)
+* [Employee-Directory](https://my-employees-dir.herokuapp.com)
 
 ## Local Environment Setup
 To use Progressive Budget web application application from your local environment, you must accomplish the following steps below:
